@@ -1,4 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?><FlowPaper_Zine_UIConfiguration>
+    <magazine>
+    <pages>
+        <page src="docs/-Beckcomm-MKT-BTL-Design-Portfolio-2025.pdf_1.jpg" />
+        <page src="docs/-Beckcomm-MKT-BTL-Design-Portfolio-2025.pdf_2.jpg" />
+        <page src="docs/-Beckcomm-MKT-BTL-Design-Portfolio-2025.pdf_3.jpg" />
+        <page src="docs/-Beckcomm-MKT-BTL-Design-Portfolio-2025.pdf_4.jpg" />
+        <page src="docs/-Beckcomm-MKT-BTL-Design-Portfolio-2025.pdf_5.jpg" />
+        <page src="docs/-Beckcomm-MKT-BTL-Design-Portfolio-2025.pdf_6.jpg" />
+        <page src="docs/-Beckcomm-MKT-BTL-Design-Portfolio-2025.pdf_7.jpg" />
+        <page src="docs/-Beckcomm-MKT-BTL-Design-Portfolio-2025.pdf_8.jpg" />
+        <page src="docs/-Beckcomm-MKT-BTL-Design-Portfolio-2025.pdf_9.jpg" />
+        <page src="docs/-Beckcomm-MKT-BTL-Design-Portfolio-2025.pdf_10.jpg" />
+        <page src="docs/-Beckcomm-MKT-BTL-Design-Portfolio-2025.pdf_11.jpg" />
+        <page src="docs/-Beckcomm-MKT-BTL-Design-Portfolio-2025.pdf_12.jpg" />
+        <page src="docs/-Beckcomm-MKT-BTL-Design-Portfolio-2025.pdf_13.jpg" />
+        <page src="docs/-Beckcomm-MKT-BTL-Design-Portfolio-2025.pdf_50.jpg" />
+        </pages>
+    </magazine>
     <desktop>
         <general imageAssets="assets_zine/material/" backgroundColor="#171717" panelColor="#171717" arrowColor="#ffffff" backgroundAlpha="1" navPanelBackgroundAlpha="0" enableZoomNavigator="true" enableFisheyeThumbnails="false" enableBalloonSlider="true" selectionColor="#AAAAAA" rollOverColor="#999999" fitModeScale="0.85" fitModeScaleMargin="-0.1" navPanelsVisible="true" zoomDragMode="true" bindBindNavigationKeys="true" readOnly="false" disableMouseWheel="false" disableZoom="false" flipSpeed="Medium" firstLastButtonsVisible="false" backgroundImage="" stretchBackgroundImage="true" enablePageShadows="true" linkColor="#72e6ff" linkAlpha="0.4" disableSharingURL="false" flipSound="None" flipAnimation="3D, Soft" hardCover="" hardCoverColor="#7b9fc2" startWithTOCOpen="false" bindBrowserNavKeys="false" arrowSize="22" loaderFontFamily="Parisienne" loaderFontColor="#000000"/>
         <toolbar height="40" width="100%" paddingTop="9" paddingLeft="15" paddingRight="15" paddingBottom="8" backgroundColor="#555555" borderColor="#171717" borderStyle="solid" borderThickness="1" cornerRadius="3" horizontalAlign="center" location="top" visible="true">
